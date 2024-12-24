@@ -1,0 +1,1 @@
+![Charity Logo](./logo.png)
